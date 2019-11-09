@@ -6,9 +6,8 @@ Step:
 
 1. Require Alfred app.
 2. Download file and double click to import.
-3. Click to Hotkey to change any hotkey if you want.  
-![alt pic]([img]https://i.imgur.com/5RnYeT1.png[/img])
-First flow is run terminal in home directory. 
-Second flow is run terminal in current folder directory.
+3. First flow row is run terminal in home directory. 
+   Second flow row is run terminal in current folder directory.
+   Click to Hotkey to change any hotkey if you want.  
 
 Hope you enjoy it!
