@@ -7,7 +7,7 @@ Step:
 1. Require Alfred app.
 2. Download file and double click to import.
 3. Click to Hotkey to change any hotkey if you want.  
-![alt text]([img]https://i.imgur.com/5RnYeT1.png[/img])
+![alt text]([img]https://imgur.com/5RnYeT1[/img])
 First flow is run terminal in home directory. 
 Second flow is run terminal in current folder directory.
 
