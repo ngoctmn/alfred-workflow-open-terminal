@@ -7,7 +7,7 @@ Step:
 1. Require Alfred app.
 2. Download file and double click to import.
 3. Click to Hotkey to change any hotkey if you want.  
-<blockquote class="imgur-embed-pub" lang="en" data-id="5RnYeT1"><a href="https://imgur.com/5RnYeT1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt text]([img]https://i.imgur.com/5RnYeT1.png[/img])
 First flow is run terminal in home directory. 
 Second flow is run terminal in current folder directory.
 
