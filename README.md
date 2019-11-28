@@ -1,6 +1,7 @@
-Open terminal workflow for Alfred app
+Open terminal and iTerm2 workflow for Alfred app
 
-This workflow used to quick open terminal in home or current folder directory.
+This workflow used to quick open terminal/iTerm2 in home or current folder directory.
+Choose 1 workflow only or change hotkey of workflow
 
 Step:
 
